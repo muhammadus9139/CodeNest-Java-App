@@ -5,9 +5,17 @@ build/
 target/
 
 
-# Compiled class file
+# Compiled files
 *.class
+out/
+build/
 
+# Config file (VERY IMPORTANT)
+config.properties
+
+# IDE files
+.idea/
+*.iml
 # Log file
 *.log
 
