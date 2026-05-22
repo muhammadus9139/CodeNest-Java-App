@@ -1,0 +1,4 @@
+Usama|muhammadus|123456|CS|Comsats|
+ahmad|muhammadahmad|1234|CS|comsats|
+Muhammad Usama|muhammadus9129@gmail.com|123456|Computer Science|Comsats Institute of Information technology|D:\me.jpeg
+usama|muhammadus9139@gmail.com|12345|CS|comsats|

@@ -1,0 +1,11 @@
+DSA|muhammadus9129@gmail.com||true|Java|1|42|repos/username/repoName/fileName,DSA/temp,cinema/head,cinema/temp,Card.java,Deck.java,Game.java,Player.java,Rank.java,Suit.java,ParcelType.java,Sp25-bcs-000/temp,CityHousing.java
+ML-Algorithms-fork|muhammadus9129@gmail.com|Forked from sarakhan/ML-Algorithms|true|Python|1|1|LinearRegression.py,KMeans.py,Node.java,BSTT.java,Main.java
+Competitive-Programming-fork|muhammadus9129@gmail.com|Forked from usmantariq/Competitive-Programming|true|C++|0|0|graph.cpp,dp.cpp,sorting.cpp
+Portfolio-Website-fork|muhammadus9129@gmail.com|Forked from ahmedraza/Portfolio-Website|true|HTML|1|0|index.html,style.css,script.js
+Java-oop|muhammadus9129@gmail.com|Java oop tasks|true|Java|0|0|Block.java,CityHousing.java,CommercialMarket.java,CornerPlot.java,HousingSociety.java,Park.java,Plot.java,Plottype.java,Shapetype.java,Shop.java
+DSA-fork|muhammadus9129@gmail.com|Forked from muhammadus9129@gmail.com/DSA|false|Java|0|1|file.java,repos/username/repoName/fileName,Main.java,DSA/temp
+Frontend|muhammadus9129@gmail.com||true|HTML|0|15|about.html,contact.html,index.html,CSS/temp,CSS/Block.java,CSS/CityHousing.java,CSS/CommercialMarket.java,CSS/CornerPlot.java,CSS/HousingSociety.java,CSS/Park.java,AVLTree.java,Main.java,Node.java,CSS/about.html
+DSA Java|muhammadus9129@gmail.com||true|None|0|0|
+Data Structures tasks|muhammadus9129@gmail.com||true|None|0|0|
+newone|muhammadus9129@gmail.com||true|None|0|0|
+usama|muhammadus9129@gmail.com|dsa based project|true|None|0|0|
