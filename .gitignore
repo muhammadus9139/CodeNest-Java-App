@@ -1,3 +1,10 @@
+out/
+*.class
+bin/
+build/
+target/
+
+
 # Compiled class file
 *.class
 
