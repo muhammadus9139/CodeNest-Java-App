@@ -1,0 +1,1 @@
+Add 3 file(s)|IntStack.java|2026-05-16 01:07:11|class IntStack {{{NL}}    int top = -1;{{NL}}    int arr[] = new int[100];{{NL}}{{NL}}    void push(int x) {{{NL}}        arr[++top] = x;{{NL}}    }{{NL}}{{NL}}    int pop() {{{NL}}        return arr[top--];{{NL}}    }{{NL}}{{NL}}    boolean isEmpty() {{{NL}}        return top == -1;{{NL}}    }{{NL}}}

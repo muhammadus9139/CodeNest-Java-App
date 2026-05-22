@@ -1,0 +1,1 @@
+Update Suit.java|Suit.java|2026-05-16 12:12:25|public enum Suit{{{NL}}{{NL}}    SPADES("s"),DIAMONDS("d"),CLUBS("c"),HEARTS("h");{{NL}}    String symbol;{{NL}}{{NL}}    Suit(String s){{{NL}}        this.symbol=s;{{NL}}    }{{NL}}}{{NL}}{{NL}}
